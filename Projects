@@ -1,0 +1,16 @@
+Projects
+
+***Project 1 - Building a Network through Cisco Packet Tracer***
+  Steps:
+  1) Add devices to the workspace
+       PC, Laptop, Cable Modem
+  2) Change display names
+  3) Add physical cabling b/w devices
+      - Connected PC to Wireless Router via a copper straight-through cable.
+      - Connected Wireless Router to cable modem via straight-through
+      - Connected cable modem to internet cloud via Coaxial cable.
+  4) Configure End Devices and Verify Connectivity
+       a) Configure PC - enable DHCP for IPv4 address, then ipconfig in command prompt to verify.
+       b) Configure Laptop - replace Ethernet copper module with Wireless WPC300N module, then test connection via web browser.
+  5) Results
+     - setup a network via a wireless router and a cable modem to hardwire to a PC and wirelessly connect to a laptop. 
